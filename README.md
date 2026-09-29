@@ -20,13 +20,13 @@ Analysis of 3,000 sales records from a coffee shop with branches in Ikeja, Victo
 
 ## Key Insights
 
-- Coffee was the top-selling category by far, generating over ₦30,500 in revenue — more than 8x Non-Coffee and Tea combined
+- Coffee was the top selling category by far, generating over ₦30,500 in revenue, more than 8x Non-Coffee and Tea combined
 - Mocha, Iced Latte, and Flat White were the top three drinks by revenue
 - Walk-in customers generated slightly more total revenue than Members (₦18,757 vs ₦17,814), though average spend per order was almost identical between the two groups
 - Card was the most used payment method (792 orders), followed closely by Cash, Mobile Wallet, and Transfer
-- Victoria Island was the top-performing branch by revenue, with Ikeja, Lekki, and Yaba close behind
+- Victoria Island was the top performing branch by revenue, with Ikeja, Lekki, and Yaba close behind
 
 ## What I Learned
 
-This was my first hands-on project with data analysis. It helped me understand how to clean and structure raw data, build PivotTables and PivotCharts, and design a dashboard that communicates insights clearly to a non-technical audience.
+This was my first hands on project with data analysis. It helped me understand how to clean and structure raw data, build PivotTables and PivotCharts, and design a dashboard that communicates insights clearly to a non-technical audience.
 
