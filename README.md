@@ -1,6 +1,6 @@
 # Coffee Shop Sales Dashboard
 
-My first Excel dashboard project, built to practice real-world data analysis and visualization skills.
+My first Excel dashboard project, built to practice real world data analysis and visualization skills.
 
 ## About the Project
 
